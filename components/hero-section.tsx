@@ -31,7 +31,7 @@ export function HeroSection() {
               {/* League badge */}
               <div className="mb-4 md:mb-6">
                 <span className="inline-block px-3 py-1 md:px-4 md:py-1.5 bg-primary text-primary-foreground text-[10px] md:text-xs font-bold uppercase tracking-wider">
-                  Liga Paranaense de Futebol
+                  Liga Paranaense de Futbol
                 </span>
               </div>
 
